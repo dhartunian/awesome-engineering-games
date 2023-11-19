@@ -225,6 +225,7 @@ These games have a focus on programming and automation. Unlike factory games, th
 Similar to programming games, but at a lower level in the machine. Wire circuits instead of writing code.
 
 * (2021) [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) ❤️
+* (2017) [Silicon Zeroes](https://store.steampowered.com/app/684270/Silicon_Zeroes/)
 * (2016) [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/) ❤️
 
 # Job Simulators & Unique Themes
